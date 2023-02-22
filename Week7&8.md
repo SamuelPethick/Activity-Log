@@ -4,7 +4,7 @@
 
 Time worked on:
 
-Requirements: A $50 credit in google, on the account used. Or alternative method of payment.
+Requirements: A $50 credit in google cloud, on the account used. Or alternative method of payment.
 
 Accomplishments and Outputs:
 
