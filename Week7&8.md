@@ -4,7 +4,7 @@
 
 Time worked on:
 
-Requirements: A $50 credit in google cloud, on the account used. Or alternative method of payment.
+Requirements: A $50 credit in google cloud, on the account used. Or alternative method of payment. Work on this website https://console.cloud.google.com/getting-started
 
 Accomplishments and Outputs:
 
