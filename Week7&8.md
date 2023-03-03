@@ -1,7 +1,7 @@
 # Week 7 Activity Log
 ## Objective: Set up a VM (Virtual Machine)
 
-### Feburary 2nd 2023
+### Feburary 22nd 2023
 
 Time worked on: 30 minutes
 
@@ -25,5 +25,24 @@ Steps Taken:
 12. After connecting you can close it by pressing the X on the top bar on the VM.
 13. Remember to stop the VM instance from the Computer Engine VM instances menu before leaving.
 
-Next Steps: Creating a server on the VM
+Next Steps: Creating a server on the VM and uploading to it.
 
+### March 3rd 
+
+Time worked on: 45 minutes
+
+Requirements: A VM.
+
+Accomplishments and Outputs: Creating an ArcGIS server on the VM and uploading a shapefile to it from ArcGIS Pro.
+
+Steps Taken:
+
+1. Start the VM on Compute Engine.
+2. Setup a domain/url on DuckDNS. 
+3. Update the IP on the domain to the external IP from Compute Engine.
+4. Conncet to the VM.
+5. On the VM create this file path C:\GISWorkspace and put the Canada.zip folder into it. Then extract.
+6. Open ArcGIS Pro, make a connection to the DuckDNS domain through ArcGIS Server. Use the logins from the text file on the VM.
+7. Login to ArcGIS server manager on the VM, using the logins from the text file, and make a folder for the file. 
+8. Back on ArcGIS Pro upload the shapefile to the server being sure to refresh the server after the folder creation.
+9. After uploading shapefile navigate to its rest endpoint and use this as a reference to upload it on AGOL.
