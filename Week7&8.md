@@ -46,3 +46,7 @@ Steps Taken:
 7. Login to ArcGIS server manager on the VM, using the logins from the text file, and make a folder for the file. 
 8. Back on ArcGIS Pro upload the shapefile to the server being sure to refresh the server after the folder creation.
 9. After uploading shapefile navigate to its rest endpoint and use this as a reference to upload it on AGOL.
+10. Upload the rest endpoint url as the feature layer reference on AGOL, my navigating to new item from the contents page.
+11. Open the ArcGIS Server Rest API link on the VM desktop.
+12. Reference the url in AGOL map viewer, switching to domain to your DNS url but keeping the path to file. 
+13. Save and Publish this item on AGOL.
