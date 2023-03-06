@@ -38,9 +38,9 @@ Accomplishments and Outputs: Creating an ArcGIS server on the VM and uploading a
 Steps Taken:
 
 1. Start the VM on Compute Engine.
-2. Setup a domain/url on DuckDNS. 
+2. Setup a domain/url on DuckDNS. https://www.duckdns.org/
 3. Update the IP on the domain to the external IP from Compute Engine.
-4. Conncet to the VM.
+4. Connect to the VM.
 5. On the VM create this file path C:\GISWorkspace and put the Canada.zip folder into it. Then extract.
 6. Open ArcGIS Pro, make a connection to the DuckDNS domain through ArcGIS Server. Use the logins from the text file on the VM.
 7. Login to ArcGIS server manager on the VM, using the logins from the text file, and make a folder for the file. 
