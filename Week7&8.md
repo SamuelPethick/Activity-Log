@@ -3,7 +3,7 @@
 
 ### Feburary 22nd 2023
 
-Time worked on: 30 minutes
+Time worked on: 45 minutes
 
 Requirements: A $50 credit in google cloud, on the account used. Or alternative method of payment. Work on this website https://console.cloud.google.com/getting-started
 
@@ -50,3 +50,5 @@ Steps Taken:
 11. Open the ArcGIS Server Rest API link on the VM desktop.
 12. Reference the url in AGOL map viewer, switching to domain to your DNS url but keeping the path to file. 
 13. Save and Publish this item on AGOL.
+
+Total Time Spent on VM Exercise: 90 Minutes
