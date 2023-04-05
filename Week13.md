@@ -22,3 +22,4 @@ Steps Taken:
 
 8. Once the Dashboard is finished Share it, ensuring that the dashboard, map, and feature layers are all set to public sharing level on ArcGIS Online. 
 9. Go to the Dashboards ArcGIS Online Contents page and copy the REST Endpoint URL, which we will use to embed it into the StoryMap.
+10. In the StoryMAP add an embedded item, and use this REST Endpoint URL as the item reference, size the Dashboard appropriately. 
