@@ -19,3 +19,6 @@ Steps Taken:
 5. Link the guage to the map with the same process for the indicator in step 2.
 6. Link the guage to the layer selection with the same process in step 3.
 7. Create another indicator for voter turnout repeating steps 1 - 3.
+
+8. Once the Dashboard is finished Share it, ensuring that the dashboard, map, and feature layers are all set to public sharing level on ArcGIS Online. 
+9. Go to the Dashboards ArcGIS Online Contents page and copy the REST Endpoint URL, which we will use to embed it into the StoryMap.
